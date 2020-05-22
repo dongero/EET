@@ -1,0 +1,19 @@
+a. What did you learn?
+I learned about the 74ls74 chip which I had never used before.
+
+b. What did you struggle with?
+I'm not used to drawing out the breadboard. 
+
+c. What was too easy?
+I use kicad for work so that part was easy
+
+d. Observations?
+Increasing the clock speed to video rate, summing both LED signals and running
+it into my CRT generates some cool patturns.
+
+e. Comments
+This lab was fun
+
+d. How long did this lape take you to complete?
+1.5hr
+

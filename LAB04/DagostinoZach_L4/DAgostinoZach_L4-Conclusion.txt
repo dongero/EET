@@ -1,0 +1,31 @@
+LAB 04 - Stepper Mottor Conclusion
+
+Procedure 1
+S0 and S1
+-When S0 and S1 are held HIGH, parallel data is loaded
+-Once S0 is LOW and S1 is HIGH, bits will be shifted to the right
+-When S0 is HIGH and S1 is LOW, bits will be shifted to the left
+
+Frequency
+-When 74LS194 is clocked at 40Hz each LED will blink at 10Hz
+--> 40Hz/4 = 10Hz
+
+Procedure 2
+To create a FULL STEP DRIVE
+-Set A and B HIGH - this will shift two bits at a time
+
+Conclusion:
+I enjoyed this project and am excited to see more applications for it
+in the future. Its cool how little external circuitry there is.
+
+I work with audio electronics so most applications I can think of 
+deal with using this as a sequencer or clock divider/generator.
+
+I'm also thinking it can be used effectively to allow switching
+between different settings without the need for multiple buttons.
+
+Is there a simple way to have S0 and S1 set HIGH upon powering on 
+and then to have S0 or S1 pulled to GND shortly after the parellel 
+data is loaded?
+I tried using a high pass RC circuit in order to filter out the DC 
+offset but it didnt seem to work.

@@ -1,0 +1,23 @@
+LAB 03 Conclusion:
+
+This lab was cool. It was fun to work out the combination.
+I'd like to make some new jumper wires for myself.
+My current supply is very silly.
+
+The total time spent on the lab is hard to say.
+Here's the breakdown:
+15 minutes on KiCad
+15 minutes on drawing the breadboard
+45 minutes on breadboarding
+*The unit was not functioning correctly so I submitted what I had for Week 1.
+
+I revisited the breadboard 2 more times and spent 3-4 hours with it each time.
+I figured I had a wire incorrectly placed or maybe a bad jumper.
+So I went over the schematic many many times and slowly felt myself going crazy.
+
+I eventually read the 74ls74 datasheet and learned pins 1, 4, 10, and 13 needed to be held high.
+
+Eitherway, the lab was super exciting to complete. It's very cool. 
+I was planning to implement the arduino, but did not get to it. 
+Maybe next time!
+

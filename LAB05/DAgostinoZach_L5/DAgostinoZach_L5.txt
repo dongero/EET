@@ -1,0 +1,51 @@
+    Q3 Q2 Q1 Q0
+
+1) 0   0   0   1      0X01
+2) 0   0   1   0      0X02
+3) 0   1   0   0      0X04
+4) 1   0   0   1      0X09
+5) 0   0   1   1      0X03
+6) 0   1   1   0      0X06
+7) 1   1   0   1      0X0D
+8) 1   0   1   0      0X0A
+9) 0   1   0   1      0X05
+A) 1   0   1   1      0X0B
+B) 0   1   1   1      0X07
+C) 1   1   1   1      0X0F
+D) 1   1   1   0      0X0E
+E) 1   1   0   0      0X0C
+F) 1   0   0   0      0X08
+--------------
+1) 0   0   0   1      0X01
+
+
+
+Conclusion
+This lab was great! I had some fun and try out some different things.
+I appoligize for using the single resistor again on the 4 LEDs. This
+lab clearly displays the short coming of using only one resister haha.
+When all LEDs are lit up you can barely tell they're on in the video.
+Hope this is ok.
+
+I mentioned in a discussion post that I changed some of the circuit 
+to get it to function. For this reason I submitted two KiCad files,
+one version references the schematic you gave us and the other is 
+the one I ended up breadboarding. All changes are mentioned in the
+discussion post.
+
+I submitted an extra video using a 3.579545 MHz clock signal.
+3.579545 MHz is known as the color burst frequency! It's a crystal 
+oscilator used to display color information on old CRT TVs.
+I've been messing around with it recently since I make glitchy video
+synthesizers with my bandmate here in Portland (we also make noise
+machines and drum synths for our music).
+In the video you'll see that I was able to generate some weird wavey lines.
+Its hard to see with the phone recording but there is a bit of color.
+The frequencies are mostly way above hearing range or anything a speaker 
+can output. 
+Color is pretty hard to get on CRT TVs unless you use a weird combination
+of frequencies and amplitudes. Again, still exploring!
+
+Oh, and I made sure to keep the breadboard drawing super simple.
+
+
