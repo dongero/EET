@@ -1,0 +1,48 @@
+Circuit: * C:\Users\dagos\EET-HW\DS123-LAB\LAB02\LAB2\Zlab_02.asc
+
+WARNING: Less than two connections to node OUT0.  This node is used by A1.
+WARNING: Less than two connections to node OUT1.  This node is used by A2.
+WARNING: Less than two connections to node OUT2.  This node is used by A3.
+WARNING: Less than two connections to node OUT3.  This node is used by A4.
+WARNING: Less than two connections to node CLKUP.  This node is used by A5.
+WARNING: Less than two connections to node CLKDN.  This node is used by A6.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Changing Tseed to 1e-010
+
+Date: Thu Jul 09 22:08:35 2020
+Total elapsed time: 9.965 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 231949
+traniter = 231531
+tranpoints = 79031
+accept = 63826
+rejected = 15204
+matrix size = 124
+fillins = 38
+solver = Normal
+Thread vector: 37.0/18.6[4] 10.5/6.6[4] 7.1/4.1[4] 0.9/1.6[1]  2592/500
+Matrix Compiler1: 6.01 KB object code size  2.7/1.3/[0.9]
+Matrix Compiler2: 8.79 KB object code size  1.6/2.3/[1.0]
+

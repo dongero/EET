@@ -1,0 +1,21 @@
+Questions/Deliverables
+
+1. What variables determine the step size? 
+
+There are a few variables that determine the step size.
+Rf on the Inverting Configuration will dictate the scale. Increasing the resistance of Rf increases expands the scale/increases the output amplitude while decreasing Rf will scale the amplitude down.
+The other variables that determine the step size are the other resistors. For example, on the R2R DAC, changing all the 1k resistors to a different value will the scale the voltage like adjusting Rf, however, making them larger will decrease the scale of the output amplitude while decreasing the resistor values will increase the scale of the output amplitude.
+The same logic can also be applied to the BW DAC, but the would depend more on the total parellel resistance of the 4 resistors. 
+
+
+2. How difficult would it be to expand the number of bits for each of these DAC types? Explain. 
+
+For the Binary-Weight DAC, one would need to add a resistor for each bit that is added. To keep with the same ratio/scaling to match the 1k reference resistor on the op amp, the resistor values would need to be adjusted to accomidate the extra bits. For example adding a 5th bit (or Q4), the resistor tied to Q0 would need to be increased to 16k, Q1  to 8k, Q2 to 4k, Q3 to 2k, and Q4 would be 1k.
+
+For an R2R, you wouldn't need to adjust any values, but you will have to add 2 resistors for each added bit in order to create the approptiate voltage divider. The resistors added would be R and 2*R to match the other resistors in the configuration.
+
+
+
+3. Include waveform screenshots of the output of both DACs 
+
+Included in submitted zip file.

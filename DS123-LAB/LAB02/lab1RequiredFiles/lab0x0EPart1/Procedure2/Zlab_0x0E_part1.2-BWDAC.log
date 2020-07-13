@@ -1,0 +1,24 @@
+Circuit: * C:\Users\dagos\EET-HW\DS123-LAB\lab1RequiredFiles\lab0x0EPart1\Procedure2\Zlab_0x0E_part1.2-BWDAC.asc
+
+Direct Newton iteration for .op point succeeded.
+Changing Tseed to 2.97e-009
+Changing Tseed to 2.97e-011
+
+Date: Thu Jun 25 21:32:54 2020
+Total elapsed time: 4.197 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 56225
+traniter = 56209
+tranpoints = 25182
+accept = 20239
+rejected = 4941
+matrix size = 77
+fillins = 2
+solver = Normal
+Thread vector: 555.4/76.7[4] 4.7/33.8[1] 3.3/59.4[1] 0.5/15.4[1]  2592/500
+Matrix Compiler1:     110 opcodes  0.9/[0.6]/8.2
+Matrix Compiler2: 3.63 KB object code size  0.6/1.3/[0.5]
+

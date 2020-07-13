@@ -1,0 +1,17 @@
+Creating   'hw1-test.eep'
+Creating   'hw1-test.hex'
+Creating   'hw1-test.obj'
+Creating   'hw1-test.lis'
+Creating   'hw1-test.map'
+
+Assembling 'hw1-test.asm'
+Including  'C:\VMLAB\include\m168def.inc'
+
+Program memory usage:
+Code             :    7 words
+Constants (dw/db):    0 words
+Unused           :    0 words
+Total            :    7 words
+
+Assembly complete with no errors.
+Deleting   'hw1-test.eep'

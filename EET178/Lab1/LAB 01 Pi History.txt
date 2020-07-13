@@ -1,0 +1,47 @@
+LAB 01 EET178
+pi@zpi:~ $ history
+    1  sudo raspi-config
+    2  scrot
+    3  sudo apt-get update
+    4  sudo apt-get upgrade
+    5  sudo apt-get install firefox-esr
+    6  sudo shutdown -h now
+    7  sudo raspi-config
+    8  sudo apt-get install xrdp
+    9  sudo apt-get install tightvnserver
+   10  ifconfig
+   11  sudo raspi-config
+   12  ifconfig
+   13  ls
+   14  sudo shutdown -h now
+   15  groups username
+   16  groups
+   17  sudo useradd -m -G
+   18  groups pi
+   19  groups newuser
+   20  sudo adduser dag
+   21  groups
+   22  groups pi
+   23  groups dag
+   24  sudo adduser dag adm dialout cdrom sudo audio video plugdev games users input netdev spi i2c gpio
+   25  groups dag
+   26  sudo adduser dag adm
+   27  sudo adduser dag dialout
+   28  sudo adduser dag cdrom
+   29  sudo adduser dag sudo
+   30  sudo adduser dag audio
+   31  sudo adduser dag video
+   32  sudo adduser dag plugdev games
+   33  sudo adduser dag plugdev
+   34  sudo adduser dag games
+   35  sudo adduser dag users
+   36  groups dag
+   37  groups pi
+   38  sudo adduser dag input
+   39  sudo adduser dag netdev
+   40  sudo adduser dag spi
+   41  sudo adduser dag i2c
+   42  sudo adduser dag gpio
+   43  groups pi
+   44  groups dag
+   45  history
